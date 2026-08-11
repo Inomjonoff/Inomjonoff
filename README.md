@@ -101,12 +101,12 @@ portfolio: https://naimjon.vercel.app
 ### 📊 GitHub Activity & Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Inomjonoff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=a855f7&text_color=94a3b8" height="175" alt="Naimjon's GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Inomjonoff&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=00f2fe&currStreakLabel=00f2fe" height="175" alt="Naimjon's Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Inomjonoff&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&icon_color=a855f7&text_color=94a3b8" alt="Naimjon's GitHub Stats" />
+  <img src="https://streak-stats.demolab.com/?user=Inomjonoff&theme=tokyonight&hide_border=true&background=0d1117&ring=a855f7&fire=00f2fe&currStreakLabel=00f2fe" alt="Naimjon's Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Inomjonoff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Inomjonoff&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00f2fe&text_color=94a3b8" alt="Top Languages" />
 </div>
 
 ---
